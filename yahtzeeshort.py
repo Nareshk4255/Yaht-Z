@@ -448,8 +448,7 @@ while play == 'yes':
     play = newgame() 
 
 print("\nThank you for playing my simple take on Yahtzee, I will likely improve on this, so keep asking me for updates!")
-print("I might add features like more players and a better scoring system, and maybe even some graphics in the future (When I don't suck at coding anymore).")
-print("And for coders, sorry for my unorthodox style of coding (I'm just a beginner), but it works!      (c) Jeroen Penders 17-05-'21\n")    
+print("(c) Jeroen Penders 17-05-'21\n")    
 
     
 
