@@ -4,7 +4,7 @@ play = 'yes'
 yn = ['y', 'n']
 
 def rules(yesorno = ['yes', 'no','y','n']):
-    rule = input("Do you want to see the rules of the game (probably a little different than normal Yahtzee)? yes or no? ")
+    rule = input("Do you want to see the rules of the game?(probably a little different than normal Yahtzee)? yes or no? ")
     if rule == 'yes':
         rule = 'y'
     while rule not in yesorno:
